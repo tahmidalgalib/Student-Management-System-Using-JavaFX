@@ -2,6 +2,10 @@
 
 A desktop application designed for managing student records efficiently. This project features a clean and modern user interface built with JavaFX and connected to a local MySQL database via XAMPP.
 
+## 🎥 Project Demonstration
+You can watch the fully functional project demo video here:  
+👉 **[Watch on YouTube](https://youtu.be/D3rsMu7JYPY?si=jiW3usVoRgChkeDq)**
+
 ## 🛠️ Tech Stack & Tools Used
 - **IDE:** NetBeans IDE
 - **Java Version:** JDK 1.8 (with built-in JavaFX support)
@@ -20,6 +24,8 @@ A desktop application designed for managing student records efficiently. This pr
 - `src/`: Contains all Java source controllers and connection logic.
 - `FXMLDocument.fxml`: The user interface layout designed in Scene Builder.
 - `Libraries/`: Includes the required MySQL Connector driver.
+  ---
+
 
 ---
 **Developed By:** Tahmid Al Galib  

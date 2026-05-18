@@ -1,12 +1,28 @@
-# Student Management System - Using JavaFX
+# Student Management System
 
-Student Management System A JavaFX desktop app built on NetBeans (JDK 1.8) and connected to XAMPP MySQL.
+A desktop application designed for managing student records efficiently. This project features a clean and modern user interface built with JavaFX and connected to a local MySQL database via XAMPP.
 
-## ## Features
-- **Full CRUD:** Insert, Update, Delete
-- **Modern FXML UI:** With custom CSS styling
-- **Database Logs:** Instant database connectivity logs
+## 🛠️ Tech Stack & Tools Used
+- **IDE:** NetBeans IDE
+- **Java Version:** JDK 1.8 (with built-in JavaFX support)
+- **Database Backend:** XAMPP (MySQL Server)
+- **UI Design:** Scene Builder & Custom FXML
+- **Styling:** Custom CSS (Rounded buttons, styled input fields)
+- **Database Driver:** `mysql-connector-java-8.0.19.jar`
+
+## 🚀 Key Features
+- **Database Connectivity:** Instantly connects to the local XAMPP MySQL database upon launching.
+- **CRUD Operations:** Fully functional Student Data Insertion (Insert), Updating (Update), and Deletion (Delete).
+- **Modern UI:** Customized text fields with prompt texts, vibrant colors, and unique layout arrangements.
+- **Digital Signature:** Branded with a personal developer signature on the application screen.
+
+## 📁 Project Structure
+- `src/`: Contains all Java source controllers and connection logic.
+- `FXMLDocument.fxml`: The user interface layout designed in Scene Builder.
+- `Libraries/`: Includes the required MySQL Connector driver.
 
 ---
-**Developed by:** Tahmid Al Galib  
-**ID:** 41230301691 | CSE, NUB
+**Developed By:** Tahmid Al Galib  
+**Student ID:** 41230301691  
+**Department:** Computer Science & Engineering (CSE)  
+**University:** Northern University Bangladesh
